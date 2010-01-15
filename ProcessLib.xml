@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<processLib>
+	<assembly name="MySequentialflow" />
+	<assembly name="MyNewWorkflow" />
+	<assembly name="MyGoalflow" />
+</processLib>
